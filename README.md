@@ -64,7 +64,7 @@ docs/
 └── capturas/              # Evidencias de ejecución y estructura.
 ```
 
-![Árbol de carpetas del proyecto](docs/capturas/estructura-proyecto.png)
+![Captura del árbol del proyecto en Android Studio](docs/capturas/estructura-proyecto.png)
 
 `main.dart` inicia la app, configura el tema y establece `home: const HomeScreen()`. `HomeScreen` es un `StatelessWidget` que devuelve el `Scaffold`. Un widget privado con estado, dentro de la misma feature, conserva el resultado del saludo. Esta separación permite mantener la pantalla principal sin estado y actualizar el texto al pulsar el botón. El código Dart de la aplicación incluye comentarios que explican sus líneas y bloques.
 

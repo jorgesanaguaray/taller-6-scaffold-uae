@@ -28,7 +28,7 @@ Fecha: 18 de noviembre de 2026.
 - [Saludo y SnackBar](capturas/saludo.png).
 - [Resultado persistente](capturas/resultado-persistente.png).
 - [Diálogo de información](capturas/informacion.png).
-- [Árbol del proyecto](capturas/estructura-proyecto.png), generado desde los archivos reales de `lib/` y `test/`, con las otras carpetas resumidas.
+- [Árbol del proyecto](capturas/estructura-proyecto.png), captura del proyecto abierto en Android Studio con las carpetas de `lib/` y `test/` expandidas.
 - [Árbol en texto](estructura.txt).
 
 Las capturas de la app proceden del emulador Android con el APK compilado de este proyecto.
