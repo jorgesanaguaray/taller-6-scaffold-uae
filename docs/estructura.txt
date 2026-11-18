@@ -1,0 +1,16 @@
+taller_6_scaffold_uae/
+├── lib/
+│   ├── presentation/
+│   │   └── screens/
+│   │       └── home/
+│   │           └── home_screen.dart
+│   └── main.dart
+├── test/
+│   └── widget_test.dart
+├── android/
+├── web/
+├── docs/capturas/
+├── analysis_options.yaml
+├── pubspec.yaml
+├── pubspec.lock
+└── README.md
